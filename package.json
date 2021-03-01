@@ -1,6 +1,10 @@
 {
     "name": "node-app",
     "version": "1.0.0",
+    "engines": {
+        "node": "14.15.0",
+        "npm": "16.14.8"
+    },
     "description": "trini task app",
     "main": "index.js",
     "scripts": {
