@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trini-task-bamb",
+  "private_key_id": "68ce83713e7342334f1634a21d2ad7418fcce2f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIvKptwxYRSa4c\nDtOg23Z1EOE+lv94GH4fSk58IAPoQZMbnnt9HGyBuCyLM93r8ZxxZfYUgi5xTeCu\nJk+E5prCs5nOrJ6DH5bVngMLAfhsCSqlTEBWMmk3TDwgqDwRnlYfL5Zw4fQ3p1eB\nP0Yadt4ra22Ogssu2nLrZXiDc2604970xFu3K1WvefPIdR0BFbE4KGGqlE4OsUaJ\nvH7s4CmTqFVFi5pPhKgwHhQfPUJEqLf1njokaYQdjTGgb1eCYbpcW7EjNnKmh6mF\n0XEcKM8l1q+ZW6a2YnloSWXQhaJCemMPbFZ3gsFEo2qVAmmy+6AAkIBeZvhc9z83\n6WZ8B5EVAgMBAAECggEAKgCYJKlqZ6mkHcjYbVMegTZL+z27LNTrJv70VzKXvrRh\n5KiPrEkTRz1TTLlImUMP+gZcrEPlFd42whnQD7306gKMj1s9O7CTbhVHC7mY0npE\nixveZmrb6y8vcaHiF8mquZHKh8ovwKlqPOgRch4nNKyg2u3xN9eLrkeoJNE1e/HH\nabUF8Au4bUCKuN4+dNL5GYFfl3q+o4sVEFLOxWskxuA9a/QRhR53e4nixoS8oHWr\njGWQYHr68WDPgYt2iyZewC0QvOw/j5OR5EwJW1roIB97CiB7byuYl6W9D/wld7oj\nv68m34zx8j2wh6f4vRiAKOUT4mf7YBmZLcTDijIaIQKBgQDkF74hTq054Arn+kBA\nxVLXLR0TMI7OOUfNwIBUj0mtgHln12OC50WBqLTYi++E+aMOCT/gdh1gszzXr3wp\nEBuaAmHiys3arbPzBqXAvJFILBRPgDlzbW8WVTYcDyMqn/QvKWJFw4HxgQ9XjFme\nzp8ixHDR0dbF1+hBrr9TKmTc/QKBgQDhTBfgXn4jHDLqZmkk+6VR2R2xcM/JwVR6\nKPNNB1KaR7J/NVbnKh5R+GKsmukrgfn1YTsSPGnU9sLPPzVgw9Z9uH9Xw4c4MAbu\nJlkA8GEUx8XJ5kCej2ee+hdAUHliOXwAOkqvVZAjbq5mrjhdLS6sEQhZtfQiKimb\nOJewznDL+QKBgCpWsecy2HrGuJ+I10Zumkrwx9XZDJkBDvAFTIzlsBJxp5d75q/U\nyBUiQLd1ejdfs0GWu/GpWxipDKEopM5mfAkhahQT+xQdbCqvUDMvjXQtInQDZCal\n6JnnpUyeDrQJzuS2NNSoTsWKZFOm7LfKuMVWW27HGavNwQH4MvF4DBLtAoGATjmg\ndKv6efBZkV97lHa3gQK0t55m1zOERGIhkBZBzQWl6Vs40EykeGuYvzuOSCf6BQP8\ngaluSZ5gJ5tXykBVIhPES1G9innKfjfcYWIVIyT1/NMwjp1WKjHFjvQiIUO6VU3o\nDpbT1Cmi7k4BjgCZGu9TCesOWCpxhc6RhLc5HOkCgYA7Ldz3qAjYDpd3SWTr1D+p\nPO/POqTXPCCKckUUkokVCawiEhVI08GxwQwnW7V6gDXlr8rksY1gnzEURoAMJP8R\nsn1hPeIGc2W31DmJS04euNblp6GZI6dmT1Y4dq25PG+IaAfQNdEl6xLl/wp2Zngt\nzrqIwV04uWseMqIlGpL1gA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "trini-task@trini-task-bamb.iam.gserviceaccount.com",
+  "client_id": "114112294745156083517",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trini-task%40trini-task-bamb.iam.gserviceaccount.com"
+}
